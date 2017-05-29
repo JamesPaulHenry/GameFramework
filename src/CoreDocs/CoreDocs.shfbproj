@@ -38,15 +38,19 @@
     <CleanIntermediates>True</CleanIntermediates>
     <HelpFileVersion>1.0.0.0</HelpFileVersion>
     <MaximumGroupParts>2</MaximumGroupParts>
-    <NamespaceGrouping>False</NamespaceGrouping>
-    <SyntaxFilters>Standard</SyntaxFilters>
+    <NamespaceGrouping>True</NamespaceGrouping>
+    <SyntaxFilters>C#, Visual Basic, Visual Basic Usage</SyntaxFilters>
     <SdkLinkTarget>Blank</SdkLinkTarget>
     <RootNamespaceContainer>False</RootNamespaceContainer>
     <PresentationStyle>Markdown</PresentationStyle>
     <Preliminary>False</Preliminary>
     <NamingMethod>Guid</NamingMethod>
-    <HelpTitle>A Sandcastle Documented Class Library</HelpTitle>
+    <HelpTitle>GameFramework Core Documentation</HelpTitle>
     <ContentPlacement>AboveNamespaces</ContentPlacement>
+    <FeedbackEMailLinkText>James Paul Henry</FeedbackEMailLinkText>
+    <FeedbackEMailAddress>james.phenry%40icloud.com</FeedbackEMailAddress>
+    <PlugInConfigurations />
+    <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, InheritedFrameworkMembers, Protected, ProtectedInternalAsProtected</VisibleItems>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
