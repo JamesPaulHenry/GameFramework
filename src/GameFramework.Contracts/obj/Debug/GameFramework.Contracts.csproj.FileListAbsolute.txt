@@ -1,0 +1,5 @@
+C:\src\GameFramework\src\GameFramework.Contracts\bin\Debug\GameFramework.Contracts.dll
+C:\src\GameFramework\src\GameFramework.Contracts\bin\Debug\GameFramework.Contracts.pdb
+C:\src\GameFramework\src\GameFramework.Contracts\obj\Debug\GameFramework.Contracts.csprojResolveAssemblyReference.cache
+C:\src\GameFramework\src\GameFramework.Contracts\obj\Debug\GameFramework.Contracts.dll
+C:\src\GameFramework\src\GameFramework.Contracts\obj\Debug\GameFramework.Contracts.pdb
